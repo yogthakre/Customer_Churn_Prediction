@@ -18,7 +18,7 @@ Telecom Customer Churn Dataset (Kaggle / UCI Machine Learning Repository)
 Logistic Regression
 
 ## Final Result Summary
-The Logistic Regression model achieved approximately 96% accuracy.
+The Logistic Regression model achieved approximately 96.8% accuracy.
 The confusion matrix shows a reasonable balance between churn and non-churn predictions.
 
 I deployed on Streamlit.
