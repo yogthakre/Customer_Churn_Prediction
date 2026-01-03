@@ -23,4 +23,4 @@ The confusion matrix shows a reasonable balance between churn and non-churn pred
 
 I deployed on Streamlit.
 https://customerchurnprediction-qfzhgqefk3ukkncx62zeeu.streamlit.app/
-This model have 96% accuracy.
+This model have 96.8% accuracy.
